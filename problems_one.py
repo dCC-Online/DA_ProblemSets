@@ -9,7 +9,8 @@ Example Output: [5, 4, 3, 2, 1]
 
 
 def reverse_list(list):
-    pass
+    # NOTE: This is not a completed problem!
+    return list
 
 
 # Problem 2

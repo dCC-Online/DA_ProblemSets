@@ -24,7 +24,7 @@ Write a function that takes in a Tuple of Batting Averages
 Convert to a List, sort highest to lowest, and return the highest value
 
 Example Input: (.123, .301, .290, .313, .106)
-Example Output: .301
+Example Output: .313
 """
 
 

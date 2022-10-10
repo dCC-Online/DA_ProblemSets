@@ -75,7 +75,7 @@ def get_value_of_favorite_color(sample_dictionary):
 
 
 """
-Problem 4 - Write a function that takes in the following dictionary and prints out every
+Write a function that takes in the following dictionary and prints out every
 key and value in a well-formatted print statement
 
 address = {
